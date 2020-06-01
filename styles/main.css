@@ -30,7 +30,7 @@ a {
 #page-home {
     height: 100vh;
     background: url('../assets/home-background.svg') no-repeat;
-    background-position: 35vw bottom;
+    background-position: 45vw 200px;
 }
 
 
@@ -132,6 +132,7 @@ a {
 @media (max-width: 900px) {
     #page-home {
         background-position-x: 70vw;
+        
     }
 
     #page-home .content {
